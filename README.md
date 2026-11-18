@@ -1,4 +1,4 @@
-# PythonAnalysisBookSales
+# Python Analysis Book Sales
  Using Python show visuals that relate to book sales in a synthetic datset.
  My aim is to use Python to show key visualisations and analyse a dataset relevant provided via my Data Skills Bootcamp. 
 
